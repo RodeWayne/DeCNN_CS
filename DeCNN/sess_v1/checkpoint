@@ -1,0 +1,2 @@
+model_checkpoint_path: "DeconvNN_CS1_mr_0_01_e1000smaller.ckpt"
+all_model_checkpoint_paths: "DeconvNN_CS1_mr_0_01_e1000smaller.ckpt"
